@@ -1,0 +1,3 @@
+[submodule "utils/manim"]
+	path = utils/manim
+	url = git@github.com:3b1b/manim.git
